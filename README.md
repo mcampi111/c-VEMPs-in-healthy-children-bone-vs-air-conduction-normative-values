@@ -1,5 +1,5 @@
 # c-VEMPs-in-healthy-children-bone-vs-air-conduction-normative-values
-R code for data analysis of the paper named Cervical vestibular evoked myogenic potentials (c-VEMPs) in healthy children: bone vs air conduction normative values. The paper is available at this link https://www.frontiersin.org/articles/10.3389/fneur.2023.1157975/full
+R code for data analysis of the paper named Cervical vestibular evoked myogenic potentials (c-VEMPs) in healthy children: bone vs air conduction normative values. The paper is available at this link https://www.frontiersin.org/articles/10.3389/fneur.2023.1157975/full 
 
 
 
